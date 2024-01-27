@@ -270,9 +270,14 @@ button:hover {
 }
 
 /* ***************************************************************** */
-.section-3 img {
-    margin-top: 20px;
+.section-3{
     width: 100%;
+    height: 461px;
+    background-image: url(../image/lizzie-BqYoSL76lGo-unsplash\ 2.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
 
 /* ****************************************************************** */
